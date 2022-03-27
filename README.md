@@ -44,4 +44,4 @@
 </details>
 
 [twitter]: https://twitter.com/BTWSalster
-[portfolio]: https://rafaelfagomes.github.io/portfolio/
+[portfolio]: https://rafaelfagomes.github.io/Rafael-Portfolio/
