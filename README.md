@@ -1,6 +1,6 @@
 # Hi fellow developers, I'm Rafael
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/BtwSalster?color=%231DA1F2&label=Follow%20Rafael&logo=twitter&style=for-the-badge)][twitter]
+![Twitter Follow](https://img.shields.io/twitter/follow/BtwSalster?color=%231DA1F2&label=Follow%20Rafael&logo=twitter&style=for-the-badge)
 
 
 ## I like listening to music a lot
