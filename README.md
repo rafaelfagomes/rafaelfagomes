@@ -3,7 +3,13 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/BtwSalster?color=%231DA1F2&label=Follow%20Rafael&logo=twitter&style=for-the-badge)][twitter]
 
 
-## I like listening to music a lot
+## I'm a developer, student and lover of life
+
+- Learning everything step by step 🌱
+- New connections are allways welcome 🤙
+- I have quite the music taste 🎵
+
+<br/>
 
 [![Spotify](https://novatorem-rafaelfagomes.vercel.app/api/spotify)](https://open.spotify.com/user/2122qfs6sp5d2kq2iqjdof4yi)
 
