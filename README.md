@@ -7,6 +7,7 @@
 
 - Learning everything step by step 🌱
 - New connections are allways welcome 🤙
+- A few projects I've done can be found on my [project portfolio][portfolio] 📖
 - I have quite the music taste 🎵
 
 <br/>
@@ -43,3 +44,4 @@
 </details>
 
 [twitter]: https://twitter.com/BTWSalster
+[portfolio]: https://rafaelfagomes.github.io/portfolio/
