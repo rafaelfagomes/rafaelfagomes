@@ -9,14 +9,14 @@
 
 ### Languages and Tools
 
-<img align="left" alt="VSCode" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" />
-<img align="left" alt="Python" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />
-<img align="left" alt="NumPY" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/numpy.svg" />
-<img align="left" alt="Flask" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flask.svg" />
-<img align="left" alt="Jinja" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jinja.svg" />
-<img align="left" alt="Git" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" />
-<img align="left" alt="GitHub" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
-<img align="left" alt="Terminal" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/windowsterminal.svg" />
+<img align="left" alt="VSCode" height="26" width="26" src="https://api.iconify.design/simple-icons/visualstudiocode.svg?color=white&height=26" />
+<img align="left" alt="Python" height="26" width="26" src="https://api.iconify.design/simple-icons/python.svg?color=white&height=26" />
+<img align="left" alt="NumPY" height="26" width="26" src="https://api.iconify.design/simple-icons/numpy.svg?color=white&height=26" />
+<img align="left" alt="Flask" height="26" width="26" src="https://api.iconify.design/simple-icons/flask.svg?color=white&height=26" />
+<img align="left" alt="Jinja" height="26" width="26" src="https://api.iconify.design/simple-icons/jinja.svg?color=white&height=26" />
+<img align="left" alt="Git" height="26" width="26" src="https://api.iconify.design/simple-icons/git.svg?color=white&height=26" />
+<img align="left" alt="GitHub" height="26" width="26" src="https://api.iconify.design/simple-icons/github.svg?color=white&height=26" />
+<img align="left" alt="Terminal" height="26" width="26" src="https://api.iconify.design/simple-icons/windowsterminal.svg?color=white&height=26" />
 
 <br />
 <br />
