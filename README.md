@@ -7,12 +7,16 @@
 
 [![Spotify](https://novatorem-rafaelfagomes.vercel.app/api/spotify)](https://open.spotify.com/user/2122qfs6sp5d2kq2iqjdof4yi)
 
-### Languages and Tools:
+### Languages and Tools
 
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](#gh-dark-mode-only)
+<img align="left" alt="VSCode" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" />
+<img align="left" alt="Python" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />
+<img align="left" alt="NumPY" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/numpy.svg" />
+<img align="left" alt="Flask" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flask.svg" />
+<img align="left" alt="Jinja" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jinja.svg" />
+<img align="left" alt="Git" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" />
+<img align="left" alt="GitHub" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
+<img align="left" alt="Terminal" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/windowsterminal.svg" />
 
 <br />
 <br />
